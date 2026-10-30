@@ -2,7 +2,7 @@
   <img src="banner.jpg" width="100%" />
 </div>
 
-### hi 👋 
+# Hello everyone 👋 I am Ewi 
 
 <!--
 **Ewixsis/Ewixsis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
