@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="snail.jpg" width="100%" />
+  <img src="green.jpg" width="100%" />
 </div>
 
 # Hello everyone 👋 I am Ewi 
